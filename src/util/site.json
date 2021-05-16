@@ -3,7 +3,7 @@
     "title": "TEST",
     "titleTemplate": "%s",
     "description": "TEST SITE",
-    "siteUrl": "www.justinweyenberg.com",
+    "siteUrl": "https://www.justinweyenberg.com",
     "image": "/assets/profile-picture.jpg",
     "iconimage": "/assets/profile-picture.jpg",
     "twitterUsername": ""
