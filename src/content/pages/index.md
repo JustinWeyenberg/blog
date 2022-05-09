@@ -1,8 +1,8 @@
 ---
 template: index-page
 slug: /
-title: Title
-tagline: Tagline
+title: Justin Weyenberg
+tagline: Senior Software Engineer
 featuredImage: /assets/profile-picture.jpg
 cta:
   ctaText: Know more
