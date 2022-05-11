@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Justin Weyenberg
+title: Hello There!
 tagline: Senior Software Engineer
 featuredImage: /assets/profile-picture.jpg
 ---
