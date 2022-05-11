@@ -12,7 +12,7 @@ const Footer = () => (
   >
     <div className="container">
       <p>
-        © 2021, The Blogger.
+        © 2022, Justin Weyenberg
       </p>
     </div>
   </footer>
