@@ -4,7 +4,7 @@
 
 # Website Summary
 
-Based on the Foundation template for Gatsby. Check it out on [GitHub](https://github.com/stackrole/gatsby-starter-foundation).
+Based on the Foundation template for [Gatsby][gatsby]. Check it out on [GitHub](https://github.com/stackrole/gatsby-starter-foundation).
 
 A starter to launch your blazing fast personal website and a blog, Built with [Gatsby][gatsby] and [Netlify CMS][netlifycms].
 
