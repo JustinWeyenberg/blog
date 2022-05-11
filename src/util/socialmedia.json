@@ -3,6 +3,14 @@
     {
       "icon": "linkedin",
       "url": "https://www.linkedin.com/in/justinweyenberg/"
+    },
+    {
+      "icon": "twitter",
+      "url": "https://twitter.com/JustinWeyenberg"
+    },
+    {
+      "icon": "github",
+      "url": "https://GitHub.com/JustinWeyenberg"
     }
   ]
 }
