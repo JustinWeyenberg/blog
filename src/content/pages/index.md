@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Hello There!
-tagline: Senior Software Engineer
+tagline: Senior Software Engineer, Xamarin Certified Mobile Developer, Gamer, Sci-Fi/Fantasy Reader
 featuredImage: /assets/profile-picture.jpg
 ---
 I am committed and driven in my work with a lifelong passion for programming, which started as a kid playing video games on the NES, to beginning my programming journey in middle school with books on C++, and now over 14 years as a professional bringing client visions and user experiences to life.
