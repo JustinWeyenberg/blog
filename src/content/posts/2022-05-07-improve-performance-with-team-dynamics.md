@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Improve Performance with Team Dynamics
-slug: improve-performance-with-team-dynamics
+slug: /improve-performance-with-team-dynamics
 date: 2016-08-19 11:42
 description: Agile Scrum, Team Dynamics, Leadership
 ---
