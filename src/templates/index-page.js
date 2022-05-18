@@ -17,9 +17,9 @@ import {
   RiSkypeFill,
   RiDribbbleFill,
   RiMediumFill,
-  RiBehanceFill,
+  RiBehanceFill
 } from "react-icons/ri"
-import { FaWordpress, FaVk } from "react-icons/fa"
+import { FaWordpress, FaVk, FaGoodreads } from "react-icons/fa"
 
 import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
@@ -124,6 +124,13 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
+        {icons.icon === "goodreads" ? (
+          <Link to={icons.url} target="_blank">
+            <FaGoodreads />
+          </Link>
+        ) : (
+          ""
+        )}
         {icons.icon === "telegram" ? (
           <Link to={icons.url} target="_blank">
             <RiTelegramFill />
@@ -199,7 +206,7 @@ const HomePage = ({ data }) => {
           <p
             className="tagline"
             sx={{
-              color: "muted",
+              color: "muted"
             }}
           >
             {frontmatter.tagline}
@@ -211,7 +218,7 @@ const HomePage = ({ data }) => {
           <div
             className="social-icons"
             sx={{
-              variant: "variants.socialIcons",
+              variant: "variants.socialIcons"
             }}
           >
             {sIcons}
