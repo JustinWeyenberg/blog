@@ -7,8 +7,6 @@ description: Agile Scrum, Team Dynamics, Leadership
 ---
 <!--StartFragment-->
 
-*Originally publish on SkylineTechnologies.com*
-
 Team dynamics are how a group of individuals operate and interact together; they are about personalities and how we communicate.
 
 Good team dynamics are part of what can make a team successful while also providing a more enjoyable and efficient work environment. Many factors influence team dynamics, but I want to focus on communication, relationships, and criticism.
